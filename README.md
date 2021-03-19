@@ -1,6 +1,13 @@
 # Speech Emotion Recognition Project
 
-This repository contains the source code of our project that implements Machine Learning techniques and algorithms for a Speech Emotion Recognition Project.
+This repository contains the source code of our project that implements Machine Learning techniques and algorithms for a Speech Emotion Recognition Project. The *.wav* file of a speech segment is analyzed and is classified by its emotion.
+
+A multi-class classification problem was implemented with 5 classes:
+- fear
+- anger
+- sadness
+- happiness
+- disgust
 
 Our main application is implemented in the Jupyter file named *SER_ML.ipynb*. We have added comments in each cell and before the definition of complex functions.
 
